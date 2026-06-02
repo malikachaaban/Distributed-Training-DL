@@ -6,7 +6,7 @@
 #     mp.spawn(train_worker, args=(world_size,), nprocs=world_size, join=True)
 #----------------------------------------------
 import torch.multiprocessing as mp
-from training.train import train_worker
+from src.training.train import train_worker
 
 if __name__ == "__main__":
     world_size = 2
