@@ -1,6 +1,6 @@
 # Projet Systèmes Répartis — Entraînement Distribué de Modèles d'Apprentissage Profond
 
-**TP — Guide de reproduction**
+**Guide de reproduction**
 
 Master d'Excellence en Intelligence Artificielle
 Faculté des Sciences Ben M'Sik — Université Hassan II de Casablanca
